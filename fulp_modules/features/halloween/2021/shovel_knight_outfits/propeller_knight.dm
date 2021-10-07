@@ -7,7 +7,7 @@
 ///suit (uses hood to toggle helmet)
 
 /obj/item/clothing/suit/hooded/costume_2021/propeller_suit
-	name = "PropellerSuit"
+	name = "Propeller knight's suit"
 	desc = "A tight, yet comfortable green suit."
 	icon_state = "propeller_suit"
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS|FEET
@@ -17,7 +17,7 @@
 ///hood (doesnt spawn in box)
 
 /obj/item/clothing/head/hooded/costume_2021/propeller_head
-	name = "Propellerhead"
+	name = "Propeller knight's helmet"
 	desc = "A reflective gold helmet with a makeshift propeller device fastened ontop."
 	icon_state = "propeller_head"
 	body_parts_covered = HEAD
@@ -26,7 +26,7 @@
 ///gloves
 
 /obj/item/clothing/gloves/costume_2021/propeller_gloves
-	name = "propeller gloves"
+	name = "Propeller gloves"
 	desc = "A tight yet comfortable pair of gloves."
 	icon_state = "propeller_gloves"
 
