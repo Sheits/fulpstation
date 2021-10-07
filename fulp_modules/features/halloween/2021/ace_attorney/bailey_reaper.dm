@@ -5,23 +5,23 @@
  */
 
 /obj/item/clothing/neck/costume_2021/breaper
-	name = "Bailey reaper's cape"
-	desc = "A long navy blue cape with gold embroidery."
+	name = "Baroque cape"
+	desc = "Smells like spilled wine, hopes and tears."
 	icon_state = "breaper_cape"
 
 /obj/item/clothing/under/costume_2021/breaper
-	name = "Bailey reaper's suit"
-	desc = "A fancy tight blue suit."
+	name = "Baroque suit"
+	desc = "A military suit that would be worn by veteran legal practitioners of old."
 	icon_state = "breaper_under"
 
 /obj/item/clothing/shoes/costume_2021/breaper
-	name = "Bailey reaper's shoes"
-	desc = "A pair of tall navy blue leather boots."
+	name = "Baroque boots"
+	desc = "Dark leather military boots designed for harsh winters, the clunking noise they make on the ice cold stone pavements of the old city produces fear in those that fear the reaper."
 	icon_state = "breaper_feet"
 
 /obj/item/clothing/gloves/costume_2021/breaper
-	name = "Bailey reaper's gloves"
-	desc = "A pair of tight white gloves."
+	name = "Baroque gauntlets"
+	desc = "Originally designed to be worn during sabre practice for protection, now reduced to a fashion statement by officials in their military parade uniforms."
 	icon_state = "breaper_hands"
 
 /obj/item/storage/box/halloween/edition_21/breaper
