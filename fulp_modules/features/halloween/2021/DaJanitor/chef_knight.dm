@@ -10,7 +10,7 @@
 	worn_icon = 'fulp_modules/features/halloween/2021/2021_icons_worn_64.dmi'
 	icon_state = "chef_knight_body"
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS|FEET
-	flags_inv = HIDEGLOVES|HIDESHOES|HIDEJUMPSUIT|HIDENECK
+	flags_inv = HIDEGLOVES|HIDESHOES|HIDEJUMPSUIT|HIDENECK|HIDEFACIALHAIR
 	hoodtype = /obj/item/clothing/head/hooded/costume_2021/chef_knight_head
 
 ///Hood
